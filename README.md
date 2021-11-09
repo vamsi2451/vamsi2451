@@ -1,4 +1,4 @@
-- 👋 Hi, I’m snake game
+- 👋 Hi, I’m vamsi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on --
