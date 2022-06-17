@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vamsi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning artificial intelligence
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on --
 - 📫 How to reach me vamsi.h18@gmail.com
 
